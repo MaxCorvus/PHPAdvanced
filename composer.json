@@ -1,0 +1,21 @@
+{
+    "name": "max/php-advanced",
+    "description": "composertest",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Max Corvus",
+            "email": "corvus.maks@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+
+    "require": {
+        "monolog/monolog": "2.0.*",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "5.4.x-dev"
+    }
+}
